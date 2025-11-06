@@ -1,0 +1,14 @@
+//Install these packages
+
+npx expo install react-native-reanimated react-native-gesture-handler
+npx expo install expo-document-picker
+npx expo install expo-camera
+npx expo install expo-audio
+npm install expo-speech-recognition
+npx expo install react-native-pager-view
+npx expo install react-native-svg
+npm i @gorhom/bottom-sheet@^5
+
+
+//Configure the packages
+

@@ -2,7 +2,7 @@ import { StyleSheet, View } from 'react-native';
 
 import { Stack, useLocalSearchParams } from 'expo-router';
 
-import { Container } from '@/components/Container';
+import { Container } from '@/components/layout/Container';
 import { ScreenContent } from '@/components/ScreenContent';
 
 export default function Details() {
